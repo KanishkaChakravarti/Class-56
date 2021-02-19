@@ -1,0 +1,16 @@
+body {
+    background-color: cyan;
+    text-align: center
+
+}
+img {
+    width: 200px;
+    height: :200px;
+    border:solid;
+    border-width: 2px;
+    padding:5px;  
+    border-color: red;
+}
+#h2 {
+    font-family: 'Rubik', sans-serif;
+}
